@@ -88,8 +88,6 @@ Exact package requirements are listed in `requirements.txt`.
 
 The repository documents the analytical code, parameter choices and workflow structure. It does not provide unrestricted reproduction of sensitive interview-level analyses because the underlying qualitative material cannot be publicly redistributed.
 
-## Author
+## Project context
 
-Mingyue Zhang  
-MSc Data Science dissertation  
-Durham University
+MSc Data Science dissertation, Durham University.
