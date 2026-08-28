@@ -216,3 +216,35 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Restricted research data
+data/
+dataset/
+datasets/
+raw_data/
+processed_data/
+transcripts/
+restricted_data/
+annotations/
+kwic_results/
+close_reading/
+
+# Restricted tabular and text files
+*.csv
+*.tsv
+*.xlsx
+*.xls
+*.docx
+*.txt
+
+# Generated research outputs
+outputs/
+models/
+*.joblib
+*.pkl
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Local environment
+.env
